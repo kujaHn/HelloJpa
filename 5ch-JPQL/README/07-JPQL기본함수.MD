@@ -1,7 +1,6 @@
 # JPQL 함수
 * 정말 기본
     * JAVA의 문자열의 INDEX는 0부터 시작이나 SQL 문자열의 INDEX은 1부터 시작
-    * 
 ## 목차
 
 * JPQL 기본 함수
@@ -62,12 +61,12 @@
 * 문자열의 `양쪽 공백`을 제거  
 
 예시 : `'  TrimString     '`의 `양측 공백 제거`   
-    ```jpaql
-    String trimQuery = "select trim(m.userName) from Member m where m.userName = '  TrimString     '";
-    Object trimResult = em.createQuery(trimQuery).getSingleResult();
-    System.out.println("trimResult = " + trimResult);
-    ```
-  <br>
+```jpaql
+String trimQuery = "select trim(m.userName) from Member m where m.userName = '  TrimString     '";
+Object trimResult = em.createQuery(trimQuery).getSingleResult();
+System.out.println("trimResult = " + trimResult);
+```
+
 * 결과  
   ![trim.png](../image/trim.png)
   
