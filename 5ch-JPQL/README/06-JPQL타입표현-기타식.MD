@@ -1,4 +1,4 @@
-#JPQL 타입 표현
+# JPQL 타입 표현
 
 `TypeExpression.java`참고
 
