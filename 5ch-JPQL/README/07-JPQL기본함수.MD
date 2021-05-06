@@ -47,12 +47,12 @@
 * substring('word', pos, len) : `word` 문자열을 `pos`번째 위치에서 `len`개 문자를 읽어 들인다.  
 
 예시 : 유저의 이름을 `2`번째 위치부터 `3`개 문자를 읽음.  
-    ```jpaql
-    String subStringQuery = "select substring(m.userName, 2, 3) from Member m where m.userName = 'subString'";
-    Object subStringResult = em.createQuery(subStringQuery).getSingleResult();
-    System.out.println("subStringResult = " + subStringResult);
-    ```
-  <br>
+   ```jpaql
+   String subStringQuery = "select substring(m.userName, 2, 3) from Member m where m.userName = 'subString'";
+   Object subStringResult = em.createQuery(subStringQuery).getSingleResult();
+   System.out.println("subStringResult = " + subStringResult);
+   ```
+
 * 결과  
   ![substring.png](../image/substring.png)
   
