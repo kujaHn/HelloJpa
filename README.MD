@@ -2,34 +2,34 @@
 
 ## 목차
 * 1ch. HelloJPa
-  * JPA 시작
-  * 영속성이란?
+  * [JPA 시작](https://github.com/kujaHn/HelloJpa/blob/main/1ch/README/01.%20JPA%EC%8B%9C%EC%9E%91.MD)
+  * [영속성이란?](https://github.com/kujaHn/HelloJpa/blob/main/1ch/README/02.%20%EC%98%81%EC%86%8D%EC%84%B1.MD)
 
 * 2ch. 매핑
-  * 엔티티 매핑
-  * 다양한 연관관계 매핑
-  * 고급 매핑
+  * [엔티티 매핑](https://github.com/kujaHn/HelloJpa/blob/main/2ch-mapping/README/01-%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A7%A4%ED%95%91.MD)
+  * [다양한 연관관계 매핑](https://github.com/kujaHn/HelloJpa/blob/main/2ch-mapping/README/02-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91.MD)
+  * [고급 매핑](https://github.com/kujaHn/HelloJpa/blob/main/2ch-mapping/README/03-%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91.MD)
 
 * 3ch. 프록시
-  * 최적화
-  * 영속성 전이
+  * [최적화](https://github.com/kujaHn/HelloJpa/blob/main/3ch-proxy/README/01-%EC%B5%9C%EC%A0%81%ED%99%94.MD)
+  * [영속성 전이](https://github.com/kujaHn/HelloJpa/blob/main/3ch-proxy/README/02-%EC%98%81%EC%86%8D%EC%84%B1%EC%A0%84%EC%9D%B4.MD)
 
 * 4ch. 값타입
-  * 기본 값타입
-  * 컬렉션 값타입
+  * [기본 값타입](https://github.com/kujaHn/HelloJpa/blob/main/4ch-valuetype/README/01-%EA%B8%B0%EB%B3%B8%EA%B0%92%ED%83%80%EC%9E%85.MD)
+  * [컬렉션 값타입](https://github.com/kujaHn/HelloJpa/blob/main/4ch-valuetype/README/02-%EA%B0%92%ED%83%80%EC%9E%85-%EC%BB%AC%EB%A0%89%EC%85%98.MD)
 
 * 5ch. JPQL
-  * 기본문법
-  * 프로젝션과 페이징
-  * 조인
-  * 서브쿼리
-  * JPQL 타입 표현
-  * JPQL 기본 함수
+  * [기본문법](https://github.com/kujaHn/HelloJpa/blob/main/5ch-JPQL/README/02-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95.MD)
+  * [프로젝션과 페이징](https://github.com/kujaHn/HelloJpa/blob/main/5ch-JPQL/README/03-%ED%94%84%EB%A1%9C%EC%A0%9D%EC%85%98%EA%B3%BC%20%ED%8E%98%EC%9D%B4%EC%A7%95.MD)
+  * [조인](https://github.com/kujaHn/HelloJpa/blob/main/5ch-JPQL/README/04-%EC%A1%B0%EC%9D%B8.MD)
+  * [서브쿼리](https://github.com/kujaHn/HelloJpa/blob/main/5ch-JPQL/README/05-%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.MD)
+  * [JPQL 타입 표현](https://github.com/kujaHn/HelloJpa/blob/main/5ch-JPQL/README/06-JPQL%ED%83%80%EC%9E%85%ED%91%9C%ED%98%84-%EA%B8%B0%ED%83%80%EC%8B%9D.MD)
+  * [JPQL 기본 함수](https://github.com/kujaHn/HelloJpa/blob/main/5ch-JPQL/README/07-JPQL%EA%B8%B0%EB%B3%B8%ED%95%A8%EC%88%98.MD)
 
 * 6ch. 페치 조인
-  * 경로표현식
-  * 페치 조인
-  * 기타 기능
+  * [경로표현식](https://github.com/kujaHn/HelloJpa/blob/main/6ch-fetchjoin/README/01-%EA%B2%BD%EB%A1%9C%ED%91%9C%ED%98%84%EC%8B%9D.MD)
+  * [페치 조인](https://github.com/kujaHn/HelloJpa/blob/main/6ch-fetchjoin/README/02-Fetch_Join.MD)
+  * [기타 기능](https://github.com/kujaHn/HelloJpa/blob/main/6ch-fetchjoin/README/03-%EA%B8%B0%ED%83%80%EA%B8%B0%EB%8A%A5.MD)
 
 ## 설치
 ### 1. 프로젝트 생성
